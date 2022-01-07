@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "042c9b8f-a1bd-4a08-9749-3910a2c49cd2": {
+      "ProjectGuid": "042c9b8f-a1bd-4a08-9749-3910a2c49cd2",
+      "DisplayName": "JenzFinance.DAL",
+      "ColorIndex": 0
+    },
+    "376734e0-edfa-45c8-8227-99cd0ca81828": {
+      "ProjectGuid": "376734e0-edfa-45c8-8227-99cd0ca81828",
+      "DisplayName": "JenzFinance",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

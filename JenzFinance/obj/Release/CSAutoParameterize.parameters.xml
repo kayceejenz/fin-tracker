@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DatabaseEntities-Web.config Connection String" description="DatabaseEntities Connection String used in web.config by the application to access the database." defaultValue="Data Source=Legendary;Initial Catalog=JenzFinanceDB;Integrated Security=True;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\kc\\Documents\\WEB\ PROJECTS\\JenzFinance\\JenzFinance\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DatabaseEntities']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,12 @@
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance.DAL\bin\Release\JenzFinance.DAL.dll.config
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance.DAL\bin\Release\JenzFinance.DAL.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance.DAL\bin\Release\JenzFinance.DAL.pdb
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance.DAL\bin\Release\EntityFramework.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance.DAL\bin\Release\EntityFramework.xml
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance.DAL\obj\Release\JenzFinance.DAL.csproj.AssemblyReference.cache
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance.DAL\obj\Release\JenzFinance.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance.DAL\obj\Release\JenzFinance.DAL.csproj.CopyComplete
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance.DAL\obj\Release\JenzFinance.DAL.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance.DAL\obj\Release\JenzFinance.DAL.pdb
