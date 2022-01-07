@@ -1,0 +1,95 @@
+﻿@using System.Web.Optimization;
+@model JenzFinance.Areas.Admin.ViewModels.SavingRecordVM
+@{
+    ViewBag.Title = "Manage";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="app-main__inner">
+    @Html.Partial("_NotificationAlert")
+    <div class="app-page-title">
+        <div class="page-title-wrapper">
+            <div class="page-title-heading">
+                <div class="page-title-icon">
+                    <i class="ion ion-cash icon-gradient bg-tempting-azure"></i>
+                </div>
+                <div>
+                    @Model.SavingCat.Description
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="main-card mb-3 card">
+        <div class="card-body">
+            <div class="table-responsive">
+                <table style="width: 100%;" id="" class="table table-hover table-striped table-bordered">
+                    <thead>
+                        <tr>
+                            <th>TOTAL AMOUNT TO BE SAVED</th>
+                            <th>@Model.TotalAmountToSave</th>
+                        </tr>
+                        <tr>
+                            <th>TOTAL AMOUNT SAVED</th>
+                            <th>@Model.TotalAmountSaved</th>
+                        </tr>
+                    </thead>
+                </table>
+                @using (Html.BeginForm("Manage", "Savings", FormMethod.Post, new { area = "Admin", @class = "validate", novalidate = true }))
+                {
+                    <table style="width: 100%;" id="" class="table table-hover table-striped table-bordered">
+                        <thead>
+                            <tr>
+                                <th>Month</th>
+                                <th>Amount</th>
+                                <th>Paid</th>
+                                <th>Date Paid</th>
+                            </tr>
+                        </thead>
+                        <tbody id="target">
+                            @for (int i = 0; i < Model.TableData.Count; i++)
+                            {
+                                <tr>
+                                    <td style="display:none" data-id="@Model.TableData[i].Id"></td>
+                                    <td>@Model.TableData[i].Month</td>
+                                    <td>
+                                        @Model.TableData[i].AmountString
+                                    </td>
+                                    @{
+                                        if (Model.TableData[i].HasPaid)
+                                        {
+                                            <td>YES</td>
+                                        }
+                                        else
+                                        {
+                                            <td>@Html.EditorFor(x => Model.TableData[i].HasPaid, new { htmlAttributes = new { @class = "form-check" } })</td>
+                                        }
+                                        if (Model.TableData[i].HasPaid)
+                                        {
+                                            <td>@Model.TableData[i].DatePaid.Value.ToLongDateString()</td>
+                                        }
+                                        else
+                                        {
+                                            <td>
+                                                @Html.EditorFor(x => Model.TableData[i].DatePaid, new { htmlAttributes = new { @class = "form-control", type = "datetime-local" } })
+                                            </td>
+                                        }
+                                    }
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    <button type="button" class="ladda-button btn btn-shadow btn-primary" id="update" data-style="zoom-in">
+                        <span class="ladda-label">Update</span>
+                        <span class="ladda-spinner"></span>
+                    </button>
+
+                }
+
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts{
+    @Scripts.Render("~/bundles/validation")
+    @Scripts.Render("~/bundles/savings")
+}

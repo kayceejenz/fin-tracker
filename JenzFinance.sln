@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenzFinance", "JenzFinance\JenzFinance.csproj", "{376734E0-EDFA-45C8-8227-99CD0CA81828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenzFinance.DAL", "JenzFinance.DAL\JenzFinance.DAL.csproj", "{042C9B8F-A1BD-4A08-9749-3910A2C49CD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{376734E0-EDFA-45C8-8227-99CD0CA81828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376734E0-EDFA-45C8-8227-99CD0CA81828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376734E0-EDFA-45C8-8227-99CD0CA81828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376734E0-EDFA-45C8-8227-99CD0CA81828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042C9B8F-A1BD-4A08-9749-3910A2C49CD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042C9B8F-A1BD-4A08-9749-3910A2C49CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042C9B8F-A1BD-4A08-9749-3910A2C49CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042C9B8F-A1BD-4A08-9749-3910A2C49CD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1608A612-9D21-44B5-AFAA-58D659126694}
+	EndGlobalSection
+EndGlobal

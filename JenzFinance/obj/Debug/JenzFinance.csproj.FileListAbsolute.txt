@@ -1,0 +1,156 @@
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\obj\Debug\JenzFinance.csproj.AssemblyReference.cache
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\obj\Debug\JenzFinance.csproj.CoreCompileInputs.cache
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\JenzFinance.dll.config
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\JenzFinance.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\JenzFinance.pdb
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\csc.exe
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\csc.exe.config
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\csc.rsp
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\csi.exe
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\csi.exe.config
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\csi.rsp
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\vbc.exe
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\vbc.exe.config
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\vbc.rsp
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\VBCSCompiler.exe
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\Antlr3.Runtime.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\EntityFramework.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\EntityFramework.SqlServer.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\JenzFinance.DAL.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\log4net.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\Microsoft.Owin.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\Microsoft.Owin.Security.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\Newtonsoft.Json.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\Owin.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\System.Web.Helpers.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\System.Web.Mvc.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\System.Web.Optimization.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\System.Web.Razor.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\System.Web.Webpages.Deployment.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\System.Web.Webpages.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\System.Web.Webpages.Razor.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\WebGrease.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\JenzFinance.DAL.pdb
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\JenzFinance.DAL.dll.config
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\Antlr3.Runtime.pdb
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\EntityFramework.xml
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\EntityFramework.SqlServer.xml
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\log4net.xml
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\Microsoft.Owin.xml
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\Microsoft.Owin.Security.xml
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\Newtonsoft.Json.xml
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\System.Web.Optimization.xml
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\System.Web.Razor.xml
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\System.Web.Webpages.xml
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\System.Web.Webpages.Deployment.xml
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\System.Web.Webpages.Razor.xml
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\System.Web.Helpers.xml
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\System.Web.Mvc.xml
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\obj\Debug\JenzFinance.csproj.CopyComplete
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\obj\Debug\JenzFinance.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\obj\Debug\JenzFinance.pdb
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\System.Buffers.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\System.Memory.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\kc\Documents\WEB PROJECTS\JenzFinance\JenzFinance\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\JenzFinance.dll.config
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\JenzFinance.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\JenzFinance.pdb
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\csc.exe
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\csc.exe.config
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\csc.rsp
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\csi.exe
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\csi.exe.config
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\csi.rsp
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\Microsoft.Managed.Core.targets
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\System.Buffers.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\System.Collections.Immutable.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\System.Memory.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\System.Numerics.Vectors.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\System.Reflection.Metadata.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\vbc.exe
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\vbc.exe.config
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\vbc.rsp
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\VBCSCompiler.exe
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\roslyn\VBCSCompiler.exe.config
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\Antlr3.Runtime.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\EntityFramework.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\EntityFramework.SqlServer.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\JenzFinance.DAL.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\log4net.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\Microsoft.Owin.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\Microsoft.Owin.Security.Cookies.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\Microsoft.Owin.Security.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\Microsoft.Web.Infrastructure.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\Newtonsoft.Json.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\Owin.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\System.Web.Helpers.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\System.Web.Mvc.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\System.Web.Optimization.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\System.Web.Razor.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\System.Web.Webpages.Deployment.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\System.Web.Webpages.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\System.Web.Webpages.Razor.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\WebGrease.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\JenzFinance.DAL.pdb
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\JenzFinance.DAL.dll.config
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\Antlr3.Runtime.pdb
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\EntityFramework.xml
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\EntityFramework.SqlServer.xml
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\log4net.xml
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\Microsoft.Owin.xml
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\Microsoft.Owin.Security.xml
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\Microsoft.Owin.Security.Cookies.xml
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\Newtonsoft.Json.xml
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\System.Web.Mvc.xml
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\System.Web.Optimization.xml
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\System.Web.Razor.xml
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\System.Web.Webpages.xml
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\System.Web.Webpages.Deployment.xml
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\System.Web.Webpages.Razor.xml
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\bin\System.Web.Helpers.xml
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\obj\Debug\JenzFinance.csproj.AssemblyReference.cache
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\obj\Debug\JenzFinance.csproj.CoreCompileInputs.cache
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\obj\Debug\JenzFinance.csproj.CopyComplete
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\obj\Debug\JenzFinance.dll
+C:\PERSONAL\JenzFinance\JenzFinance\JenzFinance\obj\Debug\JenzFinance.pdb
