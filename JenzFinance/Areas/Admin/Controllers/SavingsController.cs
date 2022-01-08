@@ -1,4 +1,5 @@
-﻿using JenzFinance.Areas.Admin.Interfaces;
+﻿using JenzFinance.Areas.Admin.Components;
+using JenzFinance.Areas.Admin.Interfaces;
 using JenzFinance.Areas.Admin.Services;
 using JenzFinance.Areas.Admin.ViewModels;
 using JenzFinance.DAL.DataConnection;
@@ -45,6 +46,10 @@ namespace JenzFinance.Areas.Admin.Controllers
         
         public ActionResult ManageSavings(bool? Added, bool? Editted, bool? AddedSub, bool? EdittedSub)
         {
+            if (!Nav.CheckAuthorization(Request.Url.AbsolutePath))
+            {
+                throw new UnauthorizedAccessException();
+            }
             if (Added == true)
             {
                 ViewBag.ShowAlert = true;
@@ -148,7 +153,7 @@ namespace JenzFinance.Areas.Admin.Controllers
             return Json(model, JsonRequestBehavior.AllowGet);
         }
 
-        public ActionResult Manage(bool? Updated, int SavingID) { 
+        public ActionResult Manage(bool? Updated, int SavingID) {
             if (Updated == true)
             {
                 ViewBag.ShowAlert = true;

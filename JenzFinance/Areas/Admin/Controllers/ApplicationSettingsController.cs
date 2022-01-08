@@ -8,6 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using JenzFinance.Areas.Admin.Components;
 
 namespace JenzFinance.Areas.Admin.Controllers
 {
@@ -45,6 +46,10 @@ namespace JenzFinance.Areas.Admin.Controllers
 
         public ActionResult Manage()
         {
+            if (!Nav.CheckAuthorization(Request.Url.AbsolutePath))
+            {
+                throw new UnauthorizedAccessException();
+            }
             return View(_settingService.GetApplicationSettings());
         }
         [HttpPost]

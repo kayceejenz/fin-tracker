@@ -48,6 +48,10 @@ namespace JenzFinance.Areas.Admin.Controllers
 
         public ActionResult Manage(bool? Added,bool? Editted)
         {
+            if (!Nav.CheckAuthorization(Request.Url.AbsolutePath))
+            {
+                throw new UnauthorizedAccessException();
+            }
             if (Added == true)
             {
                 ViewBag.ShowAlert = true;
@@ -110,6 +114,14 @@ namespace JenzFinance.Areas.Admin.Controllers
         // Role
         public ActionResult ManageRoles(bool? Added,bool? Editted)
         {
+            var allowSetupRouteAccess = db.ApplicationSettings.FirstOrDefault().AllowSetupRouteAccess;
+            if (!allowSetupRouteAccess)
+            {
+                if (!Nav.CheckAuthorization(Request.Url.AbsolutePath))
+                {
+                    throw new UnauthorizedAccessException();
+                }
+            }
             if (Added == true)
             {
                 ViewBag.ShowAlert = true;

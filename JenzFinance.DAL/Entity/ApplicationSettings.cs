@@ -12,5 +12,6 @@ namespace JenzFinance.DAL.Entity
         public string AppName { get; set; }
         public byte[] Logo { get; set; }
         public byte[] Favicon { get; set; }
+        public bool AllowSetupRouteAccess { get; set; }
     }
 }
