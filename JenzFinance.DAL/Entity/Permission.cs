@@ -12,6 +12,7 @@ namespace JenzFinance.DAL.Entity
     {
         [Key]
         public int Id { get; set; }
-        public string Description { get; set; }
+        public string Description { get; set; } 
+        public string Url { get; set; }
     }
 }

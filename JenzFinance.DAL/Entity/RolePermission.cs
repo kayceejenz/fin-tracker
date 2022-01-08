@@ -17,5 +17,8 @@ namespace JenzFinance.DAL.Entity
         public string Permission { get; set; }
         public bool IsAssigned { get; set; }
         public bool IsDeleted { get; set; }
+
+        [ForeignKey("PermissionID")]
+        public Permission Permissions { get; set; }
     }
 }

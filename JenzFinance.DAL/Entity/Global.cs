@@ -10,7 +10,7 @@ namespace JenzFinance.DAL.Entity
     public class Global
     {
         public static int AuthenticatedUserID { get; set; }
-        public static int AuthenticatedMemberID { get; set; }
+        public static int AuthenticatedUserRoleID { get; set; }
         public static  string ErrorMessage { get; set; }
         public static string ReturnUrl { get; set; }
     }

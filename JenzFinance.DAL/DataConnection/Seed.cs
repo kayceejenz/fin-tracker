@@ -16,7 +16,8 @@ namespace JenzFinance.DAL.DataConnection
           new Entity.ApplicationSettings()
           {
               Id = 1,
-              AppName = "eLibrary",
+              AppName = "Jenz Finance",
+              AllowSetupRouteAccess = true, 
           });
             context.Roles.AddOrUpdate(x => x.Id,
          new Entity.Role()

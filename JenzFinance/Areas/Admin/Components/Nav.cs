@@ -71,6 +71,7 @@ namespace JenzFinance.Areas.Admin.Components
                 var permission = new Permission()
                 {
                     Description = menu._stringText,
+                    Url = menu._url
                 };
                 model.Add(permission);
                 if (menu._childMenus.Count > 0)
@@ -80,7 +81,9 @@ namespace JenzFinance.Areas.Admin.Components
                         var childpermission = new Permission()
                         {
                             Description = submenu._stringText,
-                        };
+                            Url = submenu._url
+
+                };
                         model.Add(childpermission);
                     }
                 }
@@ -158,6 +161,15 @@ namespace JenzFinance.Areas.Admin.Components
             RolePermission.IsAssigned = isAssigned;
             db.Entry(RolePermission).State = System.Data.Entity.EntityState.Modified;
             db.SaveChanges();
+        }
+
+        public static bool CheckAuthorization(string resourceUrl)
+        {
+            var permissionResourceURLs = db.RolePermissions.Where(x => x.IsDeleted == false && x.RoleID == Global.AuthenticatedUserRoleID && x.IsAssigned == true).Select(b => b.Permissions.Url).ToList();
+            if (permissionResourceURLs.Contains(resourceUrl))
+                return true;
+            else
+                return false;
         }
 
     }

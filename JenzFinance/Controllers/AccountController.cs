@@ -50,6 +50,7 @@ namespace JenzFinance.Controllers
                 if (Session["UserId"] != null)
                 {
                     Global.AuthenticatedUserID = Convert.ToInt32(Session["UserId"].ToString());
+                    Global.AuthenticatedUserRoleID = Convert.ToInt32(Session["RoleID"].ToString());
                     var UserID = Convert.ToInt32(Session["UserId"]);
                     var RoleID = db.Users.Where(x => x.Id == UserID).FirstOrDefault().RoleID;
                     var PermissionList = db.RolePermissions.Where(x => x.RoleID == RoleID).ToList();
@@ -111,6 +112,8 @@ namespace JenzFinance.Controllers
             var Username = user.FirstOrDefault().Username;
             var ID = user.FirstOrDefault().Id;
             var Role = user.FirstOrDefault().Role.Description;
+            var RoleID = user.FirstOrDefault().RoleID;
+
 
             var identity = new ClaimsIdentity(new[] {
                     new Claim(ClaimTypes.Name, Firstname),
@@ -131,6 +134,8 @@ namespace JenzFinance.Controllers
             Session["DateCreated"] = Convert.ToDateTime(DateCreated).ToLongDateString();
             Session["Name"] = Firstname + " " + Lastname;
             Session["Role"] = Role;
+            Session["RoleID"] = RoleID;
+
         }
 
         #endregion
